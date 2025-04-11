@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\BidingSolution\Biding.Application\obj\Debug\net8.0\Biding.Application.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BidingSolution\Biding.Application\obj\Debug\net8.0\Biding.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BidingSolution\Biding.Application\obj\Debug\net8.0\Biding.Application.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BidingSolution\Biding.Application\obj\Debug\net8.0\Biding.Application.AssemblyInfo.cs
+C:\Users\User\Desktop\BidingSolution\Biding.Application\obj\Debug\net8.0\Biding.Application.csproj.CoreCompileInputs.cache

@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\BidingSolution\Biding.Domain\bin\Debug\net8.0\Biding.Domain.deps.json
+C:\Users\User\Desktop\BidingSolution\Biding.Domain\bin\Debug\net8.0\Biding.Domain.runtimeconfig.json
+C:\Users\User\Desktop\BidingSolution\Biding.Domain\bin\Debug\net8.0\Biding.Domain.dll
+C:\Users\User\Desktop\BidingSolution\Biding.Domain\bin\Debug\net8.0\Biding.Domain.pdb
+C:\Users\User\Desktop\BidingSolution\Biding.Domain\obj\Debug\net8.0\Biding.Domain.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BidingSolution\Biding.Domain\obj\Debug\net8.0\Biding.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BidingSolution\Biding.Domain\obj\Debug\net8.0\Biding.Domain.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BidingSolution\Biding.Domain\obj\Debug\net8.0\Biding.Domain.AssemblyInfo.cs
+C:\Users\User\Desktop\BidingSolution\Biding.Domain\obj\Debug\net8.0\Biding.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BidingSolution\Biding.Domain\obj\Debug\net8.0\Biding.Domain.dll
+C:\Users\User\Desktop\BidingSolution\Biding.Domain\obj\Debug\net8.0\refint\Biding.Domain.dll
+C:\Users\User\Desktop\BidingSolution\Biding.Domain\obj\Debug\net8.0\Biding.Domain.pdb
+C:\Users\User\Desktop\BidingSolution\Biding.Domain\obj\Debug\net8.0\Biding.Domain.genruntimeconfig.cache
+C:\Users\User\Desktop\BidingSolution\Biding.Domain\obj\Debug\net8.0\ref\Biding.Domain.dll
