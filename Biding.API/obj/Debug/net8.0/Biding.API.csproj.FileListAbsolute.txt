@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\BidingSolution\Biding.API\obj\Debug\net8.0\Biding.API.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\BidingSolution\Biding.API\obj\Debug\net8.0\Biding.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\BidingSolution\Biding.API\obj\Debug\net8.0\Biding.API.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\BidingSolution\Biding.API\obj\Debug\net8.0\Biding.API.AssemblyInfo.cs
+C:\Users\User\Desktop\BidingSolution\Biding.API\obj\Debug\net8.0\Biding.API.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\BidingSolution\Biding.API\obj\Debug\net8.0\Biding.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Desktop\BidingSolution\Biding.API\obj\Debug\net8.0\Biding.API.MvcApplicationPartsAssemblyInfo.cache
